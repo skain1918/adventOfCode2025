@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="aoc2025/aoc2025_1.csproj" />
-  <Project Path="aoc2025_2/aoc2025_2.csproj" />
+  <Project Path="aoc2025/aoc2025_1.csproj" Id="4a71990e-98a8-4485-82eb-664189395d6f" />
+  <Project Path="aoc2025_2/aoc2025_2.csproj" Id="5791c568-b3ae-4150-99c9-4aba73f04c84" />
+  <Project Path="aoc2025_3/aoc2025_3.csproj" Id="0f89ac83-6664-4b71-a9df-8fdb3ce473ce" />
 </Solution>
